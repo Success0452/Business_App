@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Business App</string>
+    <string name="contact_information">Contact Information</string>
+    <string name="phone_number">Phone Number: 08137854885</string>
+    <string name="email_address">email address: olatundepanilerin@gmail.com</string>
+    <string name="address_of_business">Address of Business</string>
+    <string name="message">Message the Contact Number on Whatsapp</string>
+    <string name="description_of_business">Description of Business</string>
+    <string name="MAke">Make your digital pictures into attractive cartnoons</string>
+    <string name="Check">Check out previous work from HORLAH_AWT@IG</string>
+    <string name="hours_of_operation">Hours of Operation</string>
+    <string name="r24_hours">24 Hours, you get instant reply</string>
+</resources>
